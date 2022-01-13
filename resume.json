@@ -4,106 +4,87 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736929286@qq.com",
-    "mobile": "15625057119",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "唐锦仁",
+    "email": "tangjinren@foxmail.com",
+    "mobile": "18182233556"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2016.09.01", "2020.06.30"],
+      "school": "重庆工程学院",
+      "major": "软件工程",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "2016年-2017年学年第二学期君德杯大学生数学建模竞赛二等奖",
+      "award_time": "2017"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "第六届“泰迪杯”数据挖掘挑战赛三等奖",
+      "award_time": "2018"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "2017年-2018年国家单项奖学金",
+      "award_time": "2018"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "2018年中国大学生计算机设计大赛重庆市级赛三等奖",
+      "award_time": "2018"
     }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": ["2018.06", null],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
-    },
-    {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": ["2017.06", "2017.12"],
-      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": ["2017.03", "2017.05"],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "company_name": "四川锦程消费金融",
+      "department_name": "信息技术部数据业务中心",
+      "work_time": ["2019.11", null],
+      "work_desc": "1.参与数仓从0到1的搭建过程，工作内容从ODS层到DW层和DM层\n2.参与制定和研发了数仓统一调度SQL执行器，由python编写，使用format字符串的方式进行参数赋值，能够实现自定义参数扩展，为多种调度频率情境下的作业提供参数支持\n3.在TASKCTL平台基础上研发调度预警插件，对每日调度作业完成情况进行统计和通知\n4.研发报表层血缘分析程序，在应对底层依赖表变更时，给定表名、字段名和日期范围，能够快速精确定位影响范围并自动化刷数\n5.BI报表平台各部门日常报表研发工作\n6.taskctl管理员和运维人员\n7.数仓ODS层业务表入仓的维护"
+
     }
   ],
   "skillList": [
     {
-      "skill_name": "HTML 和 CSS",
-      "skill_desc": "",
-      "skill_level": 89
+      "skill_name": "pandas/numpy/pyhive/sqlalchemy",
+      "skill_desc": "能够运用panda和numpy库配合ORM框架进行数据清洗，加工和数据透视",
+      "skill_level": 80
     },
     {
-      "skill_name": "TypeScript / JavaScript",
-      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
-      "skill_level": 90
+      "skill_name": "SMARTBI",
+      "skill_desc": "在工作中使用过SMART BI系统进行报表研发",
+      "skill_level": 80
     },
     {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
-      "skill_level": 85
+      "skill_name": "HIVE/SPARK/HDFS",
+      "skill_desc": "简单了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行常规的性能优化",
+      "skill_level": 70
     }
   ],
   "projectList": [
     {
-      "project_name": "数据作战室",
-      "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_name": "数据仓库研发",
+      "project_role": "开发者/运维",
+      "project_time": "2019.11 - 2020.11",
+      "project_desc": "对Oracle数仓进行迁移和TDH数仓新增入仓业务表进行数据加载，清洗、加工和建模",
+      "project_content": "1. 参与数仓从0到1的设计和开发 2. 参与数仓数据清洗规范的制定 3. 对数仓每日离线跑批任务进行分析和效率优化"
     },
     {
-      "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+      "project_name": "SMART BI报表研发",
+      "project_role": "开发者",
+      "project_time": "2020.11 - 至今",
+      "project_desc": "SMART BI为公司购买的企业级报表平台，可进行数据的图形化展示",
+      "project_content": "接受公司各个部门的需求，使用SMART BI进行报表研发，为公司经营层和业务决策提供支持"
     },
     {
-      "project_name": "G2、G2Plot",
-      "project_role": "核心开发者",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+      "project_name": "个人数据采集网站",
+      "project_role": "合作开发者",
+      "project_time": "2021.7 - 至今",
+      "project_desc": "对B站数据进行采集、清洗、存储和展示",
+      "project_content": "使用python的request模块定时采集B站的图片和相关数据，使用Pandas模块进行数据清洗并用过ORM框架SQLAlchemy进行数据持久化，使用FastAPI编写网站数据展示的接口"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis\n😈 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
+    "aboutme_desc": "有自我驱动力，能够在业余时间花费充足的精力进行数据相关开源技术的学习。在个人项目的开发过程中有阅读开源项目源码的习惯，通过IDE、调试模式等方式去学习和研究别人代码的优点，并应用于实践。\n会"
   }
 }
