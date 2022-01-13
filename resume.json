@@ -59,24 +59,29 @@
   ],
   "skillList": [
     {
-      "skill_name": "pandas/numpy/pyhive/sqlalchemy",
-      "skill_desc": "能够运用panda和numpy库配合ORM框架进行数据清洗，加工和数据透视",
+      "skill_name": "python",
+      "skill_desc": "熟练运用panda和numpy库配合ORM框架进行数据清洗，加工和数据透视",
       "skill_level": 80
     },
     {
-      "skill_name": "SMARTBI",
-      "skill_desc": "在工作中使用过SMART BI系统进行报表研发",
+      "skill_name": "SMART BI",
+      "skill_desc": "熟练使用SMART BI系统进行报表研发",
       "skill_level": 80
     },
     {
       "skill_name": "HIVE/SPARK/HDFS",
-      "skill_desc": "简单了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行常规的性能优化",
+      "skill_desc": "基本熟悉了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行性能优化",
       "skill_level": 70
     },
     {
-      "skill_name": "掌握",
-      "skill_desc": "简单了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行常规的性能优化",
-      "skill_level": 70
+      "skill_name": "Linux/shell",
+      "skill_desc": "掌握基本的Linux命令，能够进行简单的Linux服务器运维并能够编写简单的shell",
+      "skill_level": 60
+    },
+    {
+      "skill_name": "MYSQL",
+      "skill_desc": "了解MYSQL数据的基本原理和使用",
+      "skill_level": 50
     }
   ],
   "projectList": [
@@ -104,7 +109,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "有自我驱动力，能够在业余时间花费充足的精力进行数据相关开源技术的学习。在个人项目的开发过程中有阅读开源项目源码的习惯，通过IDE、调试模式等方式去学习和研究别人代码的优点，并应用于实践。\n会"
+    "aboutme_desc": "有自我驱动力，能够在业余时间花费充足的精力进行数据相关开源技术的学习。在个人项目的开发过程中有阅读开源项目源码的习惯，通过IDE、调试模式等方式去学习和研究别人代码的优点，并应用于实践。\n参与过公司数仓从0-1的建设，对数据清洗、数仓分层、模型加工有较为清晰的认知。\n使用过企业级报表平台进行报表研发，熟练掌握报表的研发流程"
   },
   "theme": {
     "color": "#2f5785",
