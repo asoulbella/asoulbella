@@ -4,7 +4,7 @@
     "hidden": true
   },
   "profile": {
-    "name": "唐锦仁",
+    "name": "唐锦仁(数据研发工程师)",
     "email": "tangjinren@foxmail.com",
     "mobile": "18182233556"
   },
@@ -56,6 +56,11 @@
     },
     {
       "skill_name": "HIVE/SPARK/HDFS",
+      "skill_desc": "简单了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行常规的性能优化",
+      "skill_level": 70
+    },
+    {
+      "skill_name": "掌握",
       "skill_desc": "简单了解hive on spark的运行模式，能够通过有向无环图、HDSF存储文件对hql进行常规的性能优化",
       "skill_level": 70
     }
