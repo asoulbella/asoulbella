@@ -1,4 +1,13 @@
 {
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": true
@@ -10,7 +19,10 @@
   },
   "educationList": [
     {
-      "edu_time": ["2016.09.01", "2020.06.30"],
+      "edu_time": [
+        "2016.09.01",
+        "2020.06.30"
+      ],
       "school": "重庆工程学院",
       "major": "软件工程",
       "academic_degree": "本科"
@@ -38,9 +50,11 @@
     {
       "company_name": "四川锦程消费金融",
       "department_name": "信息技术部数据业务中心",
-      "work_time": ["2019.11", null],
+      "work_time": [
+        "2019.11",
+        null
+      ],
       "work_desc": "1.参与数仓从0到1的搭建过程，工作内容从ODS层到DW层和DM层\n2.参与制定和研发了数仓统一调度SQL执行器，由python编写，使用format字符串的方式进行参数赋值，能够实现自定义参数扩展，为多种调度频率情境下的作业提供参数支持\n3.在TASKCTL平台基础上研发调度预警插件，对每日调度作业完成情况进行统计和通知\n4.研发报表层血缘分析程序，在应对底层依赖表变更时，给定表名、字段名和日期范围，能够快速精确定位影响范围并自动化刷数\n5.BI报表平台各部门日常报表研发工作\n6.taskctl管理员和运维人员\n7.数仓ODS层业务表入仓的维护"
-
     }
   ],
   "skillList": [
@@ -91,5 +105,9 @@
   "workList": [],
   "aboutme": {
     "aboutme_desc": "有自我驱动力，能够在业余时间花费充足的精力进行数据相关开源技术的学习。在个人项目的开发过程中有阅读开源项目源码的习惯，通过IDE、调试模式等方式去学习和研究别人代码的优点，并应用于实践。\n会"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
   }
 }
