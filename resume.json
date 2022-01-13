@@ -75,7 +75,7 @@
     },
     {
       "skill_name": "Linux/shell",
-      "skill_desc": "掌握基本的Linux命令，能够进行简单的Linux服务器运维并能够编写简单的shell",
+      "skill_desc": "掌握基本的Linux命令，能够进行简单的Linux服务器运维并编写常见的shell命令",
       "skill_level": 60
     },
     {
